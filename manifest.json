@@ -1,0 +1,21 @@
+{
+  "name": "Web Portfolio",
+  "short_name": "Portfolio",
+  "description": "Aplikasi web portofolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#9a08dd",  
+  "theme_color": "#9a08dd",      
+  "icons": [
+    {
+      "src": "assets/img/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
